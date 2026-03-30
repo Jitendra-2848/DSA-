@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+// Time Complexity: O(log n)
+// Space Complexity: O(1)
+
 int addition(int *x, int *y){
     int a = *x;
     int b = *y;
