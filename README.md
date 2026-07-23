@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Jitendra-2848/DSA-/tree/master/0041-first-missing-positive) |
+| [0130-surrounded-regions](https://github.com/Jitendra-2848/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jitendra-2848/DSA-/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Jitendra-2848/DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jitendra-2848/DSA-/tree/master/0287-find-the-duplicate-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Jitendra-2848/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jitendra-2848/DSA-/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Jitendra-2848/DSA-/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jitendra-2848/DSA-/tree/master/0695-max-area-of-island) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Jitendra-2848/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jitendra-2848/DSA-/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Jitendra-2848/DSA-/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jitendra-2848/DSA-/tree/master/0695-max-area-of-island) |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Jitendra-2848/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jitendra-2848/DSA-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Jitendra-2848/DSA-/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jitendra-2848/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Jitendra-2848/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jitendra-2848/DSA-/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Jitendra-2848/DSA-/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jitendra-2848/DSA-/tree/master/0695-max-area-of-island) |
