@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Jitendra-2848/DSA-/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jitendra-2848/DSA-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jitendra-2848/DSA-/tree/master/0733-flood-fill) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jitendra-2848/DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Jitendra-2848/DSA-/tree/master/0797-all-paths-from-source-to-target) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jitendra-2848/DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jitendra-2848/DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
