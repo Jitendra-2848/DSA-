@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Jitendra-2848/DSA-/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jitendra-2848/DSA-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jitendra-2848/DSA-/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/Jitendra-2848/DSA-/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jitendra-2848/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Jitendra-2848/DSA-/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jitendra-2848/DSA-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jitendra-2848/DSA-/tree/master/0733-flood-fill) |
+| [0797-all-paths-from-source-to-target](https://github.com/Jitendra-2848/DSA-/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jitendra-2848/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Jitendra-2848/DSA-/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/Jitendra-2848/DSA-/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jitendra-2848/DSA-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Jitendra-2848/DSA-/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jitendra-2848/DSA-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jitendra-2848/DSA-/tree/master/0733-flood-fill) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Jitendra-2848/DSA-/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
