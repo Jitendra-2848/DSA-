@@ -3,7 +3,6 @@ class Solution {
         int firstmax = Integer.MIN_VALUE;
         int secondmax = Integer.MIN_VALUE;
         int third = Integer.MIN_VALUE;
-        int prod1,prod2;
         int firstmin = Integer.MAX_VALUE;
         int secondmin = Integer.MAX_VALUE;
         for(int num : nums){
@@ -29,10 +28,7 @@ class Solution {
             }
 
         }
-        prod1 = firstmax * secondmax * third; 
-        prod2 = firstmin * secondmin * firstmax; 
-        int result = Math.max(prod1,prod2);
-        return result; 
+        return Math.max(firstmax * secondmax * third, firstmin * secondmin * firstmax); 
     }   
   
 
