@@ -3,18 +3,16 @@ class Solution {
         if(s.length() != t.length()) return false; 
         char[] a = s.toCharArray();
         char[] b = t.toCharArray();
-        HashMap<Character , Integer> hash = new HashMap<>();
+        int[] arr = new int[26];
         for(char x : a){
-            hash.put(x,hash.getOrDefault(x,0) + 1);
+            arr[x - 'a']++;
         }
         for(char x : b){
-             if (!hash.containsKey(x)) {
+            arr[x - 'a']--;
+        }
+        for(int count : arr){
+            if(count != 0){
                 return false;
-            }
-            hash.put(x, hash.get(x) - 1);
-
-            if (hash.get(x) == 0) {
-                hash.remove(x);
             }
         }
         return true;
