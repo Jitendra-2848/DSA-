@@ -1,27 +1,13 @@
 class Solution {
     public boolean check(int[] nums) {
-        int x = 0, store;
-        for (int i = 0; i < nums.length - 1; i++) {
-            if (nums[i] <= nums[i + 1]) {
-                x++;
-                continue;
+        // Now we are counting the breaks in the array. A rotated sorted array usually has 1 break, an invalid array has 2 or more breaks, and a completely sorted array has 0 breaks
+        int n = nums.length;
+        int count = 0;
+        for (int i = 0; i < n; i++) {
+            if(nums[i] > nums[(i+1) % n]){
+                count++;
             }
-            break;
         }
-        x++;
-        int rotation = nums.length - x;
-        if (rotation == 0) {
-            return true;
-        }
-        store = Integer.MIN_VALUE;
-        for (int i = 0; i < nums.length; i++) {
-            int check = nums[(i + x) % nums.length];
-            if (store > check) {
-                return false;
-            }
-            store = check;
-        }
-        return true;
-
+        return count <= 1;
     }
 }
