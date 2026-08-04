@@ -1,7 +1,7 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
          if(strs.length == 0){
-            return " ";
+            return "";
         }
         char[] a = strs[0].toCharArray();
         int count = Integer.MAX_VALUE;
