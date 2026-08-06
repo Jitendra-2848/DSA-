@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Jitendra-2848/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jitendra-2848/DSA-/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jitendra-2848/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Jitendra-2848/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jitendra-2848/DSA-/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Jitendra-2848/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
