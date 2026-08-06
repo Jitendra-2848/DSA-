@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jitendra-2848/DSA-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Jitendra-2848/DSA-/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Jitendra-2848/DSA-/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Jitendra-2848/DSA-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Jitendra-2848/DSA-/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/Jitendra-2848/DSA-/tree/master/0130-surrounded-regions) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Jitendra-2848/DSA-/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Jitendra-2848/DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jitendra-2848/DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
