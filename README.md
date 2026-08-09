@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Jitendra-2848/DSA-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Jitendra-2848/DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jitendra-2848/DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jitendra-2848/DSA-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra-2848/DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jitendra-2848/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Jitendra-2848/DSA-/tree/master/0463-island-perimeter) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Jitendra-2848/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jitendra-2848/DSA-/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jitendra-2848/DSA-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0463-island-perimeter](https://github.com/Jitendra-2848/DSA-/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jitendra-2848/DSA-/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jitendra-2848/DSA-/tree/master/0733-flood-fill) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jitendra-2848/DSA-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0706-design-hashmap](https://github.com/Jitendra-2848/DSA-/tree/master/0706-design-hashmap) |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra-2848/DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Jitendra-2848/DSA-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 <!---LeetCode Topics End-->
