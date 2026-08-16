@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jitendra-2848/DSA-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Jitendra-2848/DSA-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Jitendra-2848/DSA-/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/Jitendra-2848/DSA-/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/Jitendra-2848/DSA-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Jitendra-2848/DSA-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Jitendra-2848/DSA-/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Jitendra-2848/DSA-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Jitendra-2848/DSA-/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Jitendra-2848/DSA-/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0169-majority-element](https://github.com/Jitendra-2848/DSA-/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jitendra-2848/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jitendra-2848/DSA-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra-2848/DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Jitendra-2848/DSA-/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Jitendra-2848/DSA-/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Jitendra-2848/DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jitendra-2848/DSA-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra-2848/DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Jitendra-2848/DSA-/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra-2848/DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Jitendra-2848/DSA-/tree/main/0912-sort-an-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jitendra-2848/DSA-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Jitendra-2848/DSA-/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra-2848/DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Jitendra-2848/DSA-/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
@@ -221,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jitendra-2848/DSA-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Jitendra-2848/DSA-/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
