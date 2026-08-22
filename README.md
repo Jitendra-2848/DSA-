@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jitendra-2848/DSA-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Jitendra-2848/DSA-/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Jitendra-2848/DSA-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Jitendra-2848/DSA-/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Jitendra-2848/DSA-/tree/master/0027-remove-element) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Jitendra-2848/DSA-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Jitendra-2848/DSA-/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Jitendra-2848/DSA-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Jitendra-2848/DSA-/tree/main/0088-merge-sorted-array/) | Easy |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Jitendra-2848/DSA-/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jitendra-2848/DSA-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Jitendra-2848/DSA-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jitendra-2848/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
