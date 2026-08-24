@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jitendra-2848/DSA-/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Jitendra-2848/DSA-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Jitendra-2848/DSA-/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Jitendra-2848/DSA-/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Jitendra-2848/DSA-/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Jitendra-2848/DSA-/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/Jitendra-2848/DSA-/tree/master/0041-first-missing-positive) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Jitendra-2848/DSA-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Jitendra-2848/DSA-/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Jitendra-2848/DSA-/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Jitendra-2848/DSA-/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Jitendra-2848/DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Jitendra-2848/DSA-/tree/main/0125-valid-palindrome/) | Easy |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Jitendra-2848/DSA-/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Jitendra-2848/DSA-/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Jitendra-2848/DSA-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Jitendra-2848/DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Jitendra-2848/DSA-/tree/main/0169-majority-element/) | Easy |
