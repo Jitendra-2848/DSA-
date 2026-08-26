@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Jitendra-2848/DSA-/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Jitendra-2848/DSA-/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/Jitendra-2848/DSA-/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Jitendra-2848/DSA-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Jitendra-2848/DSA-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Jitendra-2848/DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jitendra-2848/DSA-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jitendra-2848/DSA-/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Jitendra-2848/DSA-/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Jitendra-2848/DSA-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Jitendra-2848/DSA-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Jitendra-2848/DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Jitendra-2848/DSA-/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jitendra-2848/DSA-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Jitendra-2848/DSA-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jitendra-2848/DSA-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jitendra-2848/DSA-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/Jitendra-2848/DSA-/tree/master/0486-predict-the-winner) |
@@ -265,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Jitendra-2848/DSA-/tree/main/0881-boats-to-save-people/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Jitendra-2848/DSA-/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Jitendra-2848/DSA-/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
