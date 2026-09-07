@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Jitendra-2848/DSA-/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Jitendra-2848/DSA-/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Jitendra-2848/DSA-/tree/main/0912-sort-an-array/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendra-2848/DSA-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jitendra-2848/DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jitendra-2848/DSA-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3731-find-missing-elements](https://github.com/Jitendra-2848/DSA-/tree/master/3731-find-missing-elements) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jitendra-2848/DSA-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendra-2848/DSA-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jitendra-2848/DSA-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Jitendra-2848/DSA-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendra-2848/DSA-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
