@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jitendra-2848/DSA-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Jitendra-2848/DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Jitendra-2848/DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/Jitendra-2848/DSA-/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Jitendra-2848/DSA-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Jitendra-2848/DSA-/tree/main/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Jitendra-2848/DSA-/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jitendra-2848/DSA-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jitendra-2848/DSA-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jitendra-2848/DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Jitendra-2848/DSA-/tree/main/0567-permutation-in-string/) | Medium |
 | [0706-design-hashmap](https://github.com/Jitendra-2848/DSA-/tree/master/0706-design-hashmap) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jitendra-2848/DSA-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Jitendra-2848/DSA-/tree/master/3731-find-missing-elements) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jitendra-2848/DSA-/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Jitendra-2848/DSA-/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Jitendra-2848/DSA-/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Jitendra-2848/DSA-/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Jitendra-2848/DSA-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Jitendra-2848/DSA-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jitendra-2848/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jitendra-2848/DSA-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Jitendra-2848/DSA-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0567-permutation-in-string](https://github.com/Jitendra-2848/DSA-/tree/main/0567-permutation-in-string/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Jitendra-2848/DSA-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jitendra-2848/DSA-/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
