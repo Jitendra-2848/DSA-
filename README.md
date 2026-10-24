@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Jitendra-2848/DSA-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Jitendra-2848/DSA-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Jitendra-2848/DSA-/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/Jitendra-2848/DSA-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jitendra-2848/DSA-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jitendra-2848/DSA-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jitendra-2848/DSA-/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Jitendra-2848/DSA-/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Jitendra-2848/DSA-/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Jitendra-2848/DSA-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jitendra-2848/DSA-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Jitendra-2848/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Jitendra-2848/DSA-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Jitendra-2848/DSA-/tree/main/0036-valid-sudoku/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Jitendra-2848/DSA-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/Jitendra-2848/DSA-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Jitendra-2848/DSA-/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Jitendra-2848/DSA-/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
