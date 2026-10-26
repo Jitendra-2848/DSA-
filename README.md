@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jitendra-2848/DSA-/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/Jitendra-2848/DSA-/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/Jitendra-2848/DSA-/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/Jitendra-2848/DSA-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Jitendra-2848/DSA-/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Jitendra-2848/DSA-/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Jitendra-2848/DSA-/tree/main/0912-sort-an-array/) | Medium |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Jitendra-2848/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Jitendra-2848/DSA-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Jitendra-2848/DSA-/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Jitendra-2848/DSA-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Jitendra-2848/DSA-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
